@@ -77,4 +77,6 @@ Disclaimer
 This tool is a hackathon prototype for demonstration purposes only. It is not a substitute for professional legal advice. The answers and summaries provided by the AI may not be entirely accurate or complete. Please consult with a qualified legal professional for any legal concerns.
 
 
-Developed by Govind Mewada ❤️
+                                                                 
+                                                             ** Developed by Govind Mewada ❤️ **
+
