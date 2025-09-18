@@ -76,5 +76,5 @@ Note: The application requires a valid API key for the Gemini API. The index.htm
 Disclaimer
 This tool is a hackathon prototype for demonstration purposes only. It is not a substitute for professional legal advice. The answers and summaries provided by the AI may not be entirely accurate or complete. Please consult with a qualified legal professional for any legal concerns.
 
-Team
-Team Leader: Govind Mewada
+
+Developed by Govind Mewada ❤️
